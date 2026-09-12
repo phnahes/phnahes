@@ -32,8 +32,7 @@ paulo = {
 > I focus on building solutions that are **reliable, observable, scalable, secure, and maintainable**,
 > while contributing to environments where engineers can do their best work.
 
-> Founder of **[Nahes Solutions](https://www.nahes.com.br)** — a tech studio with 10+ production apps
-> across IT consulting, IoT platforms, automotive tooling, 3D projects, and web utilities.
+> Founder of **[Nahes Solutions](https://www.nahes.com.br)** — a technology company building production-grade applications across IT consulting, IoT platforms, automotive engineering, 3D technologies, and modern web applications.
 
 ---
 
