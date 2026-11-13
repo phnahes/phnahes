@@ -2,6 +2,8 @@ name: Latest blog post workflow
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"
 
 permissions:
   contents: write
@@ -20,5 +22,5 @@ jobs:
           template: "**[$title]($url)**\n`$date` — $description\n"
           date_format: "MMM YYYY"
           description_max_length: 180
-          commit_message: "chore: update latest Medium articles"
+          commit_message: "Atualiza a lista de artigos do Medium."
           gh_token: ${{ secrets.GITHUB_TOKEN }}
