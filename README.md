@@ -95,22 +95,12 @@ paulo = {
 
 ## Latest Articles on Medium
 
-<!-- BLOG-POST-LIST:START -->
-**[From Noise to Tire Pressure: Reverse Engineering a 433 MHz TPMS Protocol](https://medium.com/@phnahes/from-noise-to-tire-pressure-reverse-engineering-a-433-mhz-tpms-protocol-1bd8e7c28920)**  
-`Nov 2026` — OOK/Manchester protocol behind the Schrader EG53MA4: framing, checksum, and how to decode it on a microcontroller.
-
-**[Exploring PTZ Control and IP Camera Integration with SOAP and ONVIF](https://medium.com/@phnahes/exploring-ptz-control-and-ip-camera-integration-with-soap-and-onvif-7aa9e01e7503)**  
-`May 2026` — SOAP, WSDL, WS-Security and practical PTZ automation beyond RTSP video streaming.
-
-**[The BMW I/K-Bus Protocol: A Practical Engineering Guide](https://medium.com/@phnahes/the-bmw-i-k-bus-protocol-a-practical-engineering-guide-24cd24db40eb)**  
-`Apr 2026` — Hands-on reverse engineering of BMW I/K-Bus on the E39: protocol, addressing, electrical characteristics, and tooling.
-
-**[CAN Analyzer](https://medium.com/@phnahes/can-analyzer-8e81b7743bbf)**  
-`Feb 2026` — A deep dive into the CAN protocol plus the open-source analyzer for traffic, diagnostics, and embedded development.
-
-**[Enjoying CAN Bus and OBD2 Resources](https://medium.com/@phnahes/enjoying-can-bus-and-obd2-resources-364d87f63b30)**  
-`Dec 2024` — Practical intro to CAN Bus data analysis and OBD2 resources for understanding modern vehicle electronics.
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->**[From Noise to Tire Pressure: Reverse Engineering a 433 MHz TPMS Protocol](https://medium.com/@phnahes/from-noise-to-tire-pressure-reverse-engineering-a-433-mhz-tpms-protocol-1bd8e7c28920?source=rss-d6ef8dacd349------2)**
+`1414 YYYY` — **[Exploring PTZ Control and IP Camera Integration with SOAP and ONVIF](https://medium.com/@phnahes/exploring-ptz-control-and-ip-camera-integration-with-soap-and-onvif-7aa9e01e7503?source=rss-d6ef8dacd349------2)**
+`1414 YYYY` — **[The BMW I/K-Bus Protocol: A Practical Engineering Guide](https://medium.com/@phnahes/the-bmw-i-k-bus-protocol-a-practical-engineering-guide-24cd24db40eb?source=rss-d6ef8dacd349------2)**
+`3030 YYYY` — **[CAN Analyzer](https://medium.com/@phnahes/can-analyzer-8e81b7743bbf?source=rss-d6ef8dacd349------2)**
+`5959 YYYY` — **[Enjoying CAN bus and OBD2 resources](https://medium.com/@phnahes/enjoying-can-bus-and-obd2-resources-364d87f63b30?source=rss-d6ef8dacd349------2)**
+`033 YYYY` — <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all articles → medium.com/@phnahes](https://medium.com/@phnahes)
 
