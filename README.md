@@ -21,6 +21,7 @@ paulo = {
     ],
     "passions":   ["Linux", "Automotive Engineering", "LoRaWAN", "IoT", "Integrations and Automations", "DevOps"],
     "writing_on": "medium.com/@phnahes",
+    "linkedin_profile": "linkedin.com/in/paulonahes/"
     "location":   "Brazil 🇧🇷",
 }
 ```
